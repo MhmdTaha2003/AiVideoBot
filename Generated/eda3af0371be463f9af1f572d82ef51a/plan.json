@@ -1,0 +1,29 @@
+{
+  "title": "Exploring Mars",
+  "language": "English",
+  "durationSeconds": 10,
+  "aspectRatio": "9:16",
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "durationSeconds": 3,
+      "narration": "Mars awaits beyond the silence of space.",
+      "visualPrompt": "Cinematic spacecraft approaching Mars, immense red planet filling the frame, deep space, dramatic sunlight, photorealistic, vertical composition",
+      "transition": "fade"
+    },
+    {
+      "sceneNumber": 2,
+      "durationSeconds": 4,
+      "narration": "Across ancient plains, we search for signs of life.",
+      "visualPrompt": "Astronaut exploring a vast Martian valley beside a futuristic rover, red dust swirling, towering cliffs, cinematic wide-angle lighting, photorealistic, vertical composition",
+      "transition": "dissolve"
+    },
+    {
+      "sceneNumber": 3,
+      "durationSeconds": 3,
+      "narration": "One world explored. A new future begins.",
+      "visualPrompt": "Astronaut standing on a Martian ridge overlooking a glowing research habitat at sunrise, Earth visible as a tiny star, epic cinematic scale, photorealistic, vertical composition",
+      "transition": "fade"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Piper Phase 4 Integration Test",
+  "language": "en-US",
+  "durationSeconds": 3,
+  "aspectRatio": "9:16",
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "durationSeconds": 3,
+      "narration": "Hello, this is the Phase Four voice generation integration test.",
+      "visualPrompt": "A microphone in a quiet recording studio",
+      "transition": "fade"
+    }
+  ]
+}
